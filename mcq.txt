@@ -1,0 +1,29 @@
+# question 1:
+answer: B) Having
+
+# question 2:
+answer: customers OUTER JOIN orders
+
+# question3
+B ) 7
+
+# question 4
+[2 5 8] B)
+
+# question 5:
+b) 4
+
+question 6:
+B) Series
+
+question 7:
+A) sns.histplot()
+
+question 8:
+B) There are no loops a task can never lead back to itself
+
+question 9:
+B in the metadata database
+
+question 10"
+ B) the task_id...to follow
